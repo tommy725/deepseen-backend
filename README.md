@@ -20,7 +20,7 @@ cd ./deepseen-backend
 The `.env` file is required, see [.env.example](.env.example) for details
 
 ### Launch
-
+ 
 ```
 go run ./
 ```
